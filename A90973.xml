@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A parallel between the Israelites desiring of King Saul, and England's desiring of a Parliament. Or, A vindication of the eight chapter of the first book of Samuel, Ver. 4, 5, 6, 7, 8, 9. Wherefore all the elders of Israel gathered them together, and came to Samuel unto Ramah, and said unto him, behold thou art old, and thy sons walk not in thy ways, make us now a King to judge us like all other nations: but the thing displeased Samuel, when they said, give us a King to judge us, &amp;c. Wherein the text, 2 Sam. 21.1. is laregely cleared, where it is said: then there was a famine in the dayes of David three years together, and David asked counsell of the Lord: and the Lord answered, it is for Saul and for his bloudy house, because he slew the Gibeonites. With the manner how God is said to make Saul King over Israel in wrath.</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90973</idno><idno type="EEBO-CITATION">99865920</idno>
+  <idno type="VID">118175</idno>
+  <idno type="EEBO-PROQUEST">2240941720</idno>
+  
+            <idno type="STC">Wing P335</idno>
+            <idno type="STC">Thomason E247_9</idno>
+            <idno type="STC">ESTC R206814</idno>
+            <idno type="PROQUEST">99865920</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865920e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118175)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E247[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A parallel between the Israelites desiring of King Saul, and England's desiring of a Parliament. Or, A vindication of the eight chapter of the first book of Samuel, Ver. 4, 5, 6, 7, 8, 9. Wherefore all the elders of Israel gathered them together, and came to Samuel unto Ramah, and said unto him, behold thou art old, and thy sons walk not in thy ways, make us now a King to judge us like all other nations: but the thing displeased Samuel, when they said, give us a King to judge us, &amp;c. Wherein the text, 2 Sam. 21.1. is laregely cleared, where it is said: then there was a famine in the dayes of David three years together, and David asked counsell of the Lord: and the Lord answered, it is for Saul and for his bloudy house, because he slew the Gibeonites. With the manner how God is said to make Saul King over Israel in wrath.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wood.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "March. 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Samuel --  Commentaries --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:118175:1"/>
+            <epigraph>
+               <bibl>1. SAM. 8. Vers. 6, 7.</bibl>
+               <q>But the thing displeased <hi>Samuel,</hi> when they said, Give us a King, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the death of <hi>Ioshua,</hi> the government which God ap<g ref="char:EOLhyphen"/>pointed to be exercised over his people of <hi>Israel,</hi> was to be governed by Judges, but the sins of the people aboun<g ref="char:EOLhyphen"/>ding, Gods wrath was increased against them: for they thirsted after another kind of government then God had ordained, and would prefer their own opinion before his wisdome, 1 <hi>Sam.</hi> 8. 5. and therfore when <hi>Samuel</hi> waxed old, and had substituted the government to his sonnes, 1 <hi>Sam.</hi> 8. 1. the Elders of <hi>Israel</hi> gathered themselves, and came to <hi>Samuel,</hi> and said unto him, <hi>1 Sam. 8. 5 Behold thou art old, and thy sonnes walk not in thy ways, make us now a King to judge us like other nations:</hi> and because they were not content with the order that God had appointed, but would be go<g ref="char:EOLhyphen"/>verned as were the Gentiles, <hi>1 Sam. 8. 7. The Lord said unto Samuel, Heare the voice of the people in all that they shall say unto thee, for they have not cast thee away, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they have cast me away, that I sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld not reigne over them:</hi> and when that <hi>Samuel</hi> told the people (to prove if they would forsake their wic<g ref="char:EOLhyphen"/>ked purpose) what manner of King they should have, saying, that he would take their sons, and appoint them to chariots, &amp;c. that he would take their daughters, and make them Apothecaries▪ and Cooks, and Bakers; and take their seed and their olive trees and give them to his servants, with the tenth of all their sheep; and that they should at that day cry out because of their King, and the Lord would not hear them, 1 <hi>Sam.</hi> 8. 13, 14, 15. yet the people would not hear the voice of <hi>Samuel,</hi> but said nay: but there shall be a King over us: Not that Kings are more naturally prone to wickednesse then other men, or that they have this power and authority by their office, but that when God will punish the sins of the people by the sins of the Rulers, <hi>Deut.</hi> 17. 20. they will usurp this over t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir brethren, contrary to the Law. For although <hi>Saul</hi> was given to the people in wrath, yet all Kings are not so, for that office is ordained by God himself, 1 <hi>King.</hi> 10. 9. and a King by judgment maintain<g ref="char:EOLhyphen"/>eth his Realm, <hi>Prov.</hi> 29. 4. and many good Kings have been a great blessing to their whole Kingdomes, and are commended in Gods word: as namely, good King <hi>Iosia,</hi> who was an instrument of abolishing much idolatry in the land, and <hi>David,</hi> who was the next King that succeeded <hi>S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l,</hi> was a man af<g ref="char:EOLhyphen"/>ter Gods own heart, also <hi>Hezeki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, Asa,</hi> and <hi>Iehosaphat</hi> feared the Lord, 1 <hi>Sam.</hi> 31. therefore we are commanded to honour the King, and to submit
+<pb facs="tcp:118175:1"/> our selves to his Ordinances, 1 <hi>Pet.</hi> 2. 13, 17. and pray for all that are in au<g ref="char:EOLhyphen"/>thority; for there is no power, but is ordained of God, which was the rea<g ref="char:EOLhyphen"/>son that <hi>David</hi> himself, though he knew that he was at that time chosen and appointed to raign after <hi>Saul,</hi> and being persecuted by him, having <hi>Saul</hi> twice in his power, 1 <hi>Sam.</hi> 14. 4. &amp; <hi>Chap.</hi> 16. 7. <hi>viz.</hi> once in the cave, and another time in the wildernesse, where he might have slain him, he refused to lay vio<g ref="char:EOLhyphen"/>lent hands upon <hi>Saul</hi> his annointed Soveraigne, but prayed for his welfare: by which it is apparent, that no subject ought to lay violent hands upon the Prince, be he never so wicked: for we find eleven notorious vices which <hi>Saul</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an into.</p>
+            <p n="1">1 He took upon him the Priests office, which was unlawfull for him to do, 1 <hi>Sam.</hi> 13. 6.</p>
+            <p n="2">2 He disobeyed Gods expresse commandement, in not putting to death <hi>A<g ref="char:EOLhyphen"/>gag</hi> King of the Amalekites, 1 <hi>Sam.</hi> 15. 3.</p>
+            <p n="3">3 When the Prophet reproved him for his fault, he became obstinate, and justified to the Prophet, that he had not offended, 1 <hi>Sam.</hi> 15. 20.</p>
+            <p n="4">4 He was overcome with envy, grudging and repining at the vertues and good successe of others, 1 <hi>Sam.</hi> 18. 9.</p>
+            <p n="5">5 Ingratitude, for he would have slain <hi>David</hi> that very time which he de<g ref="char:EOLhyphen"/>livered him by his musick from the torment of the wicked spirit, 1 <hi>Sam.</hi> 18.</p>
+            <p n="6">6 He was very unconstant in his word, for he faithfully vowed and pro<g ref="char:EOLhyphen"/>mised, that <hi>David</hi> should have his daughter <hi>Merab</hi> in marriage, 1 <hi>Sam.</hi> 16. 19. and after gave her away to another, and he falsified his oath made to the Gibe<g ref="char:EOLhyphen"/>onites, 2 <hi>Sam.</hi> 21. 2.</p>
+            <p n="7">7 He was of a trecherous mind, and would have betrayed <hi>David</hi> to the Philistines, 1 <hi>Sam.</hi> 18. 21.</p>
+            <p n="8">8 He was of a murderous mind, he would have killed <hi>David</hi> in his bed, had not his wife preserved him, 1 <hi>Sam.</hi> 19. 12.</p>
+            <p n="9">9 He would have killed his own son <hi>Ionathan,</hi> for excusing <hi>David,</hi> 1 <hi>Sam.</hi> 20. 23.</p>
+            <p n="10">10 He slew the Lords Priests, 1 <hi>Sam.</hi> 22. 18.</p>
+            <p n="11">11 Lastly, he consulted with sorcerers and witches, 1 <hi>Sam.</hi> 28. 8. yet we read, that <hi>David</hi> would not so much as touch a hair of his head (onely cut off the lap of his garment) much lesse take away his life.</p>
+            <p>
+               <hi>Object.</hi> But here it may be objected, how we may understand that <hi>Saul</hi> was given to be King over <hi>Israel,</hi> in anger, or wrath?</p>
+            <p>
+               <hi>Answ.</hi> For the better clearing of this point, we must take notice, that God may be said to give in wrath severall wayes.</p>
+            <p n="1">1 God may send those things in wrath which are simply hurtfull to the wicked, yet good in themselves.</p>
+            <p n="2">2 Gods wrath may be sent or executed upon a people by that which is sim<g ref="char:EOLhyphen"/>ply evill in it self.</p>
+            <p n="3">3 Gods wrath may come upon a people for that which is evill, though the manner of his executing that wrath be in it self a blessing, and so injoyed by others, to whom God gives the same thing, but differently used.</p>
+            <pb facs="tcp:118175:2"/>
+            <p>For the first: the wrath of God is taken for the punishment of sin, <hi>Eph▪</hi> 5. 6. 1 <hi>T<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s.</hi> 5. 9. and although punishment be an evill, in respect of those on whom it is <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted, as it it is, <hi>Am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> 3. 6. where it is said, <hi>Is there any evill in the Ci<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and I have not done it?</hi> which is meant the evill of punishment, yet is not God the authour of evill, but the punisher of evill: but this punish<g ref="char:EOLhyphen"/>ment is not simply evill in it self, for all the works of the Lord are exceeding good, <hi>Gen.</hi> 1. 31. also somtimes the sending of Gods wrath may be taken for a restraint of his restraining grace, as where it is said, that he hardened <hi>Pha<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s</hi> h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, that he should not let <hi>Israel</hi> go: and in this sense in some measure we may take this Text of Scripture, <hi>God gave them a King in his wrath,</hi> not onely for the sins of <hi>Saul,</hi> but chief<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y for the sins of the people, and therefore a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>though God in mercy towards his people, that they should not be destroy<g ref="char:EOLhyphen"/>ed utterly by his and their enemies, gave him abilities and externall vertues fit for a King, 1 <hi>Sam.</hi> 10. 9. yet his restraining grace was so far with-holden from him, which suffered him to run into so many great and grievous sins, as before is related, that those which belonged to the election of grace seeing th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se troubles and calamities which befell that people under his goverment, might repent of their f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmer sins.</p>
+            <p>For the second, God somtimes executes his wrath by that which is simply evill in it self, as when God permits Satan his utter enemy to prevail so with men, as they are drawn from God, as <hi>Saul</hi> was, to consult with witches, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Sam.</hi> 28. 8. Then <hi>Saul</hi> changed himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night; I pray thee conjecture unto me by the familiar spirit, and bring him me up, whom I shall n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me unto thee: Likewise when sin is punished with another, and so men treasure up wrath against the day of wrath: but in regard this is not the thing which I intend to insist upon, I shall proceed to the third thing.</p>
+            <p>3 Gods wrath may come upon a people for that which is evill, though the manner of executing that wrath be in it self a blessing: for the outward comforts of this life, riches, honour, &amp;c. are in themselves, as they come from God, a bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssing, but being abused they are turned to a curse unto such a<g ref="char:EOLhyphen"/>busers of them, though unto them which make a sanctified use thereof, they are a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lessing: for we are but stewards of those things which God bestowes upon us in this life, and are to give an account of our stewardships; and if when God doth bestow abundance of outward blessings we wax carelesse, and are puft up with pride, God may justly complain of us as he did of Ieshe<g ref="char:EOLhyphen"/>rum, which when he waxed f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, kicked against the pricks, and it fare with us as it did with the fool in the Gosp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, that when he thought he had riches in store laid up for many years, the same night had his soul taken from him: and as riches are the blessing of God, so likewise are Kings and Rulers; and when the Israelites had no Kings or Magistrate, every man did what he listed, <hi>Iudg.</hi> 17. 6. and a change of Kingdomes is a work of God for sin, <hi>Iob</hi> 34. 24. <hi>Pro.</hi> 8. 28. 2. and God hath promised that the King and people doing well shall be preserved, but if they do evill, they shall perish. 1 <hi>Sam.</hi> 12. 14, 15, 21.</p>
+            <p>So that from that which hath been already shewed, it doth plainly appear,
+<pb facs="tcp:118175:2"/> that sin is the cause of all the miseries which befall either a King or people: for sin was the cause of <hi>Sauls</hi> tyrannicall governments, sin was the cause that moved good King <hi>David</hi> to number the people, whereupon he lost seventy thousand of his subjects. It was sin that was the cause that thrust <hi>Saul</hi> out of his Kingdome, and if the sin of one man may bring much calamity upon a Kingdome, as in the case of <hi>Achan,</hi> what may we expect who are guilty of many Nationall sins; and indeed we never read of any fatall destruction which hath been brought upon a Nation or People, but it was for one or both these sinnes, Idolatry, and the breach of the Sabboth, and yet generall calamity may befall a People or Nation for the sins of their Rulers and Governours, as we may plainly read, 2 <hi>Sam.</hi> 21. 1. where it is said, that when there was a famine three years together, <hi>David</hi> asked counsell of the Lord what was the cause thereof, and the Lord answered, <hi>It is for Saul and for his bloudy house, because he slew the Gi<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nites▪</hi>
+            </p>
+            <p>
+               <hi>Ob.</hi> But here may be a <hi>Quaere,</hi> why the whole people of <hi>Israel (Saul</hi> be<g ref="char:EOLhyphen"/>ing dead almost forty years before) should be punished and afflicted for the sin of <hi>Saul.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> For the better clearing of this point, we must take notice, that God somtimes punisheth a people for their own sins in generall.</p>
+            <p>2 He somtimes sends calamities upon a land or people for the sins of their Rulers.</p>
+            <p>First, for the sins of the people God oftentimes hath sent great calamities amongst them, as famine, pestilence, the sword, and the like, and in <hi>Hoseah</hi> it is said, because of oaths the land mourns: so that Nationall sins do usually so provoke Gods wrath, that he sends Nationall punishments, 2 <hi>Sam.</hi> 24. 1. And the wrath of the Lord was again kindled against Israel, and he moved <hi>David</hi> against them, in that he said, <hi>Go number Israel and Iudah.</hi> It was as<g ref="char:EOLhyphen"/>well the sins of the people, as the sin of <hi>David,</hi> which was the cause that three evils were put to <hi>David,</hi> that he should chuse one of them, and seventy thousand were destroyed by the pestilence, 2 <hi>Sam.</hi> 24. 15. for the wrath of the Lord was kindled against Israel before <hi>David</hi> numbred the people, 2 <hi>Sam.</hi> 24. 1. although good King <hi>David</hi> took it upon himself, saying, <hi>For these silly sheep what have they done?</hi>
+            </p>
+            <p>Secondly, God sometimes punisheth a Nation for the sinnes of the Rulers, 2. Sam. 21. 1. when Saul was dead, and David established in the Kingdome, and a Famine of three yeares came upon the Land, David asked counsell of the Lord, (<hi>id est</hi>) he besought the Lord to know the cause from whence this evill came, and the Lord answered, <hi>It is for</hi> Saul, <hi>and his bloudy House, because he slew the</hi> Gibeonites: and the Egyptians underwent many g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ievous plagues because Pharoh would not let the children of Israel go, Exod. 91. 2. 3. 4.</p>
+            <p>
+               <hi>Object.</hi> Here may arise an objection, whether it may not seeme to be in<g ref="char:EOLhyphen"/>justice in God to puni<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a People or Nation for the sinnes of their Rulers, as in this case of Saul, who was dead neere 40. yeares before, and yet the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amine upon the Land is for Saul and for his bloody house, because he slew the Gi<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nites▪</p>
+            <pb facs="tcp:118175:3"/>
+            <p>
+               <hi>Ans.</hi> Saul was a publique Person, so that the sinne of Saul was in some na<g ref="char:EOLhyphen"/>ture the sinne of the People, they being involved in the same offence, in pas<g ref="char:EOLhyphen"/>sing it over negligently, without taking notice thereof, and humbling them<g ref="char:EOLhyphen"/>selves, so that they being generally guilty either of that sinne in particular, or of other sinnes which deserved that punishment, it can be no injustice with God to punish the Sin of Saul upon the People long after his death. And as I have already proved, God may justly for the sins of the People themselves punish them, by sending many miseries and calamities upon them, by the sins of their Rulers, as in the case of David 2. Sam. 21. 1. the Sinnes of the Peo<g ref="char:EOLhyphen"/>ple was the cause that God afflicted them by the sinne of David, in numbe<g ref="char:EOLhyphen"/>ring the People.</p>
+            <p>So that the order of Gods punishments runnes thus, he punisheth the Peo<g ref="char:EOLhyphen"/>ple for their sins, and that punishment is oftentimes executed on them by the sinnes of the Rulers: the sinnes of the People may be the fall of a King, and the fall of the King the destruction of the People, so neer an union is there between the King and the People, that when for sin God sends his Judge<g ref="char:EOLhyphen"/>ments upon a land, both Rulers and People do share therein.</p>
+            <p>Now since I have shewed in generall, that the sins of the People are the cause of the calamities and miseries that fall upon a Nation, and it being the sin of the People to aske a King, they had a Tyrant to raign over them.</p>
+            <p>It fals out in the next place, that something should be said to shew how wee may know the particular sin for which Gods wrath is kindled against a Nation or Kingdome, for the punishing whereof he hath sent grievous cala<g ref="char:EOLhyphen"/>mities and punishments among them, for although sin in generall be the cause of this, yet wee see by that place before mentioned 2. Sam. 21. 1. that for the particular sin of Saul, and his bloudy House, in killing the Gibeonites, a common calamity did fall upon all Jsrael, and tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long after Sauls death.</p>
+            <p>For the better understanding of Gods proceedings in this kind, we must know that it is Gods prerogative, and at his own will and pleasure, whether he will punish for all sins in Generall or for some particular sin in speciall, as being most capitall and odious in the sight of God, for there is not that Nati<g ref="char:EOLhyphen"/>onall sin committed, but every man and Woman are (at the least) by their na<g ref="char:EOLhyphen"/>turall corruption, and originall sin guilty thereof, by which we deserve the same punishments, which are sent for that particular sin, though it be death it selfe: for by nature as soon as ever wee are born▪ we owe a death unto God though we never commit any actuall transgression, and it is his Soveraignty to take his debt which way he will, and at what time and place it pleaseth him, without any wrong or injustice to the creature; But most commonly Nati<g ref="char:EOLhyphen"/>onall punishments are for Nationall sins, as it was a Nationall sin of the Peo<g ref="char:EOLhyphen"/>ple to grow into a dislike of that Government which God had set over them, and to desire a King to rule over them (as <hi>I</hi> have already shewed) this gene<g ref="char:EOLhyphen"/>rall calamity came upon the Israelit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for one particular sin of Saul, and so we may find that for the sin of one private man, the whole People have been troubled, as in the case of Achan, Iosh. 7. 1. and in the three last Chapters of the Booke of Judges, for the wicked usage and cruell murder of an Harlot,
+<pb facs="tcp:118175:3"/> committed by a few wicked and deboist men of Gibeah, the same being made known to the Israelites, they assembled themselves together to consult what was fit to be done therein, seeing that such an abomination was committed a<g ref="char:EOLhyphen"/>mongst them: And in Judges 20. 8. wee shall find what was agreed upon by that great Counsell concerning this busines.</p>
+            <p>Then all the People rose as one man, saying, there shall not a man of us go to his Tent, neither any turne into his House, but this is the thing we will do against Gibeah, wee will go up by lot against it, &amp;c. And so all the men of Israel joyned (as it were) in association, and went against the City of Gi<g ref="char:EOLhyphen"/>beah as one man, &amp;c. when they came to the City, they required these wick<g ref="char:EOLhyphen"/>ed men that had done this villany to be delivered unto them to be put to death, and so to take evill out of the Land: But marke what followed, the children of Benjamin, Jud. 20. 25. (that is) the men of Gibeah, and the rest of that Tribe, gathered themselves together to come out and fight with the Children of Israel, and by rescuing those wicked persons from being punished, they declared themselves maintainers of them in their evill: and here arose a great warre between the children of Benjamin and the children of Israel, in which warre the Israelites did receive two great overthrows by the children of Ben<g ref="char:EOLhyphen"/>jamin, which God permitted because the Israelites partly trusted too much in their own strength, and partly by this meanes to punish their sinnes,; In which two overthrowes the children of Israel lost, that were slain with the Sword, forty thousand men; yet the Lord commanded them to go up to the Battell the third time, and in that day the children of Israel destroyed of the Benjamites three and forty thousand, Jud. 20. 13. and slew both man and Beast, and set on fire all the Cities they could come by, which belonged to the Benjamites, so that by this meanes that whole Tribe was utterly destroy<g ref="char:EOLhyphen"/>ed, and cut off, except six hundred which fled into the Wildernesse, and hid themselves in the Rockes, Judg. 20. 47.</p>
+            <p>And thus having sufficiently shewed what is the true cause of any misery or calamity which doth befall a Land or People, which doth arise from sun<g ref="char:EOLhyphen"/>dry wayes, yet all is the effect of sin, either from Nationall sins in generall, or the sins of the Rulers, or for the sins of some particular private persons.</p>
+            <p>
+               <hi>Ob.</hi> Me thinkes I heare some demand to know what particular sin is cause of these present calamities, which are upon this Land, for as Saul was higher by the head and shoulders then other men, so was he higher in iniquity then the People, yet the People first offended, and caused Gods wrath to be kindled a<g ref="char:EOLhyphen"/>gainst them, 1. Sam. 8. 6. for which they were justly punished, 2. Sam. 20. 1. but as before I have declared, God doth chiefly and principally punish for some particular sins.</p>
+            <p>
+               <hi>Ans.</hi> For Answer hereunto, I shall onely say thus much, that although God doth not in the times of the Gospell vocally and verbally use to reveale such things as he did to David, saying, It is for Saul and for his bloudy House because he slew the Gibeonites: yet by observing the effects and manner of Gods punishments, we may gather so much as is necssary to be known in this point.</p>
+            <pb facs="tcp:118175:4"/>
+            <p>Some thinke that these calamities which are fallen upon this Kingdome <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this time, are in relation to the five yeares persecution of the Church, under the Raigne of Queen Mary, it being passed by without any publique or, Nati<g ref="char:EOLhyphen"/>onall humiliation, for the expiation of Gods wrath, for the innocent blo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which was shed; but to leave that, we have more cause to thinke that the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vils and calamities which are come upon us in this Land, at this time, is f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by passed sins, which not being repented of, and reformed, wee are guilty <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them still, as Idolatry, which of late yeares hath in a great measure been to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lerated, and so hath spread exceedingly in this Land, the breach of the Sabbo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which was tollerated by authority, Injustice, which hath made the whole land cry out for redresse within these few yeares: and lastly unthankfulnesse, which is a sin that we are all guilty of, for indeed this Land may be called <hi>Ter<g ref="char:EOLhyphen"/>ra ingrata,</hi> a Land of unthankfulnesse, to what People hath God given so many blessings as he hath unto us, and is any more unthankefull, hath not God been alwaies ready to heare and answer our prayers, even in the very thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g which wee prayed for, yet what good hath it wrought upon us; have no the sins of the Land more and more abounded, and have not wee been like the nine Lepers which never returned to give God thanks? we desired a Par<g ref="char:EOLhyphen"/>liament for the redressing of those evils which before that were fallen upon us for our sins, which they have with much earnestnesse, and indefatigable paines and care, joyned with earnest prayer, used all meanes to effect, and ty<g ref="char:EOLhyphen"/>red their spirits, and spent a great part of their estates, to bring it to passe, and what shall wee thinke is the reason, that their faithfull advise, and unwearied paines, should in so long a space, worke no better effects: shall we grudge and repine at them, who patiently labour and waite all opportunities for a happ<g ref="char:EOLhyphen"/>setling of the present distractions, when our sins are the cause of the many rubs and interruptions which they dayly meet withall. It is a dangerous thing to speake evill of Gods servants, especially those which are in Authority, the children of Israel murmured against Moses, but God takes it as done to him<g ref="char:EOLhyphen"/>selfe, and they are punished for it, therefore let us take heed, least in seeking to remove the present calamities of the Kingdome, wee do not increase Gods wrath against us, but seeke unto him in the way which he hath prescribed, and at last, let every one take that counsell which <hi>Daniel</hi> gave to <hi>Nabuchad<g ref="char:EOLhyphen"/>nezzar,</hi> Dan. 4. 24. <hi>O King let my counsell be acceptable to thee, breake off thy sins by righteousnes, and thy iniquities by shewing mercy to the poore, loe let there be a healing of thy errour.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
